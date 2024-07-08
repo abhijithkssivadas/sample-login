@@ -1,0 +1,26 @@
+body{
+    background-image: url("bg2.jpg");
+    background-size: 150%;
+}
+form{
+    text-align: center;
+}
+div{
+    border: solid white;
+    width: 300px;
+    text-align: center;
+   margin-left: 450px;
+   background-color: white;
+   border-radius: 7px;
+   box-shadow: 4px 4px 4px ;
+}
+input{
+    margin: 6px;
+}
+button{
+    margin: 7px;
+    border-radius: 4px;
+    border: rgba(0, 183, 255, 0.92);
+    background-color: rgb(0, 119, 255) ;
+    padding: 6px;
+}

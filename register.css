@@ -1,0 +1,35 @@
+body{
+    background: url(https://t4.ftcdn.net/jpg/01/03/02/07/240_F_103020747_tkHJV51YxTwFbKEvaqq1haETnFbMP1E9.jpg);
+    background-size: cover;
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  
+}
+div{
+    text-align: center;
+    width: 350px;
+    padding: 10px;
+    margin-left: 400px;
+    box-shadow: 4px 4px 5px;
+    border-radius: 10px;
+    background-color: rgba(13, 201, 239, 0.293);
+ }
+ input{
+    padding: 6px;
+    width: 150px;
+    border-radius: 6px;
+    border: solid white;
+    margin: 5px;
+   
+}
+button{
+    margin: 5px;
+    background-color: dodgerblue;
+    border: solid dodgerblue;
+    border-radius: 4px;
+  }
+  a:hover{
+    color:blue;
+    font-size: 17px;
+}

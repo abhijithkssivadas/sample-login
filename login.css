@@ -1,0 +1,50 @@
+body{
+background-image: url(bg1.jpg);
+background-size: cover;
+
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+
+}
+a{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+div{
+   text-align: center;
+   width: 350px;
+   padding: 10px;
+   margin-left: 400px;
+   box-shadow: 4px 4px 3px;
+   border-radius: 10px;
+   background-color: ghostwhite;
+}
+.btn:hover{
+    padding: 9px;
+}
+.btn{
+    background-color: dodgerblue;
+    color: white;
+    border: solid dodgerblue;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 6px;
+}
+a{
+    text-decoration: none;
+    color:dodgerblue;
+}
+a:hover{
+    color:blue;
+    font-size: 17px;
+}
+input{
+    margin: 7px;
+    padding: 7px;
+    width: 250px;
+    border-radius: 6px;
+    border: solid white;
+}
